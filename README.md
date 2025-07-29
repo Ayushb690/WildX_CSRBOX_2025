@@ -3,6 +3,7 @@
 📊 By Team Data Minions
 
 📌 Overview
+
 WildX is a comprehensive data analytics project focused on understanding wildlife characteristics and conservation patterns through visual exploration. The project analyzes animal traits like diet, lifespan, weight, gestation period, and conservation status using diagnostic and comparative analytics techniques.
 
 🧠 Objectives
@@ -54,6 +55,7 @@ Provide insights for ecological researchers.
 Support predictive models in environmental science.
 
 👥 Team Members – Data Minions
+
 Ayush Kumar Barik – Data Analysis, Visualization
 
 Abhishek Mohanty - program Researcher
