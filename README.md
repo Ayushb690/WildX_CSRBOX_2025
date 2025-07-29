@@ -31,8 +31,6 @@ Shows how dietary habits affect average lifespan among species.
 2. Average Lifespan, Weight, and Height per Animal Family
 Multivariate view per family group highlighting biological differences.
 
-![Family-Level Analysis](./Diagnostic Analytics_1.png)
-
 3. Conservation Status vs. Habitat
 Displays how conservation status correlates with diverse habitat types.
 
@@ -43,8 +41,6 @@ Highlights how reproductive characteristics may relate to risk status.
 
 5. Distribution by Conservation Status
 Shows the frequency distribution of animals across various IUCN categories.
-
-![Conservation Status Distribution](./Distribution by Conservation.png)
 
 🌍 Significance
 Understanding these patterns can:
