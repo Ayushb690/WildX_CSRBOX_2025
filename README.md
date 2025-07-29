@@ -1,5 +1,7 @@
 🌿 Project WildX - Wildlife Data Exploration and Visualization
+
 📊 By Team Data Minions
+
 📌 Overview
 WildX is a comprehensive data analytics project focused on understanding wildlife characteristics and conservation patterns through visual exploration. The project analyzes animal traits like diet, lifespan, weight, gestation period, and conservation status using diagnostic and comparative analytics techniques.
 
